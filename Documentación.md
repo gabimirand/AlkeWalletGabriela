@@ -28,8 +28,7 @@ Este proyecto llamado "AlkeWallet" contiene 4 package con sus respectivas clases
     DolarTest y EuroTest, donde se probaron los métodos utilizados. 
     Todas las pruebas corrieron sin errores ni fallas.
 
-    En este repositorio adjunto imágenes de las pruebas y la ejecución por consola del
-    MainAlkeWallet. 
+    En este repositorio adjunto imágenes de las pruebas.
 
 
 
